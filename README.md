@@ -1,4 +1,4 @@
-# Comprehensive Data Analysis and Visualization of Lifestyle Metrics
+# Comprehensive Data Exploration and Visualization of Lifestyle Metrics
 
 ## Overview
 This project is part of a college Python experiential learning assignment focused on data analysis and visualization. It utilizes a dataset from Kaggle, "Half a Million Lifestyle," which contains various lifestyle metrics and demographic information.
